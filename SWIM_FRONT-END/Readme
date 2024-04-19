@@ -1,0 +1,56 @@
+No Phone number on profile detail page for security reasons
+Any one who wants to communicate must send a message
+Users who wish to receive items can send their numbers for easier access or use the messaging platform.
+<!-- Make sure that the same item is not chosen twice -->
+A message gets sent to sender so when they accept the request from the customer knowing their location, contact and prefrred time
+status changes again so no other person can access same product.
+
+<!-- How do we take care of the wait period -->
+
+
+<!-- form field that accepts preferred food items, preferred pickup time, location(check my current location or i can type)
+provide a link to the src/pages/Map page for me to check the distance -->
+
+<!-- 
+For an administrator to make informed decisions about the application, various details and metrics would be useful to track and analyze. Here are some examples:
+
+User Engagement Metrics:
+
+Number of registered users
+Active users (daily, weekly, monthly)
+User login frequency
+User retention rate
+User activity patterns (e.g., time spent on the platform, most visited pages)
+Content Metrics:
+
+Number of food items donated/received
+Donation frequency and trends over time
+Most donated/received food items
+Average quantity of food items donated/received
+Feedback and ratings from users on donated/received items
+Performance Metrics:
+
+Response time of the application (page load time, API response time)
+Uptime and downtime of the application
+Error rates (e.g., HTTP error codes, database errors)
+Performance comparisons over time (to identify improvements or regressions)
+Security Metrics:
+
+Number of security incidents (e.g., unauthorized access attempts, breaches)
+Security vulnerabilities identified and patched
+Compliance with security standards and regulations
+Financial Metrics:
+
+Revenue (if applicable, e.g., from advertisements, premium features)
+Cost of operations (hosting, maintenance, development)
+Return on investment (ROI) for various initiatives and features
+User Feedback and Support Metrics:
+
+User feedback ratings and sentiment analysis
+Number of support tickets and their resolution time
+Common user issues and complaints
+Geographical Metrics:
+
+Geographic distribution of users/donations
+Regional trends in donation/receipt of food items
+Target areas with high demand or low supply of food items -->

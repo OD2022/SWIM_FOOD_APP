@@ -1,0 +1,20 @@
+/* App.css */
+
+/* Ensure that the content area takes up the remaining height */
+.main-content {
+  min-height: calc(100vh - 100px); /* Adjust according to your footer height */
+  /* 100px is the approximate height of your header */
+}
+
+/* Ensure that the footer is positioned at the bottom of the page */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50px; /* Adjust according to your footer height */
+  background-color: #f8f9fa; /* Example background color */
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid #ddd; /* Example border */
+}
